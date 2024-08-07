@@ -1,6 +1,6 @@
 import React, { useState, useRef } from 'react';
 import generateOGImage from './generateOGImage';
-import './Post.css';
+import './styles.css';
 
 const Post = () => {
   const [title, setTitle] = useState('');
