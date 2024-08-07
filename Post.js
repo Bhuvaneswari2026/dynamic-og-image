@@ -1,5 +1,5 @@
 import React, { useState, useRef } from 'react';
-import generateOGImage from '../utils/generateOGImage';
+import generateOGImage from './generateOGImage';
 import './Post.css';
 
 const Post = () => {
